@@ -16,5 +16,5 @@ Learn everything you need to about the subject of this `Exercism` project.
 
 ## Exercisms
 ```
-[ ]
+[x] hello_world.py
 ```
